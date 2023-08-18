@@ -30,3 +30,19 @@ Agile methodology is a flexible and iterative approach that focuses on deliverin
  It involves continuous collaboration between the development team and the stakeholders, allowing for frequent feedback and adjustments to be made throughout the development process.
 For a food delivery application, this approach would be ideal as it allows for quick adaptation to changing customer needs and preferences. So, we can always ensure that the application meets the customer's requirements.
  Agile methodology emphasizes testing and quality assurance throughout the development process, ensuring that the final product is reliable and user-friendly. This is crucial for a food delivery application as it involves handling sensitive customer information such as payment details and delivery addresses.
+
+ # Details
+ All the details can be found in the Qidrah Delivery App Details.PDF
+ or use this link for google docs version: https://docs.google.com/document/d/1Kt9dsfV547SgRtnYB3A09jGhSl4LXvMT3PMc5x8fotQ/edit?usp=sharing
+ that includes:
+ 1. Requirements Analysis: User requirements, System requirements, functional Requirements, and Non-functional requirements.
+ 2. Usecase diagrams and tables
+ 3. ERD
+ 4. Activity Diagram: System Flow
+ 5. Activity Diagram: Delivery System
+ 6. Sequence Diagram
+ 7. Class Diagram
+ 8. Functional Test Plan 
+ 
+
+
