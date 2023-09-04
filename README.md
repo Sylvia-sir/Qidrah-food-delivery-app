@@ -21,20 +21,31 @@ For delivering food charges will be applied.  An agent from the delivery service
 
 # Objectives of the Project:
 The objective of this project is to develop a web application that allows customers to order their desired food items from their working location. 
+
 The following points simplify the objectives of this project more clearly: 
+
 To increase efficiency and improve customer service through better application of technology in daily operations. 
+
 To enable customers to order their desired food through the Internet. 
+
 To make all the work easier and computerized. 
+
 To improve the efficiency of the restaurant's staff. 
+
 To increase the speed of service, sales volume, and customer satisfaction.
 
 # Methodology:
 The Software Development Model
+
 We use agile methodology to develop our software:
+
 Agile methodology is a flexible and iterative approach that focuses on delivering working software in short iterations.
- It involves continuous collaboration between the development team and the stakeholders, allowing for frequent feedback and adjustments to be made throughout the development process.
+
+It involves continuous collaboration between the development team and the stakeholders, allowing for frequent feedback and adjustments to be made throughout the development process.
+
 For a food delivery application, this approach would be ideal as it allows for quick adaptation to changing customer needs and preferences. So, we can always ensure that the application meets the customer's requirements.
- Agile methodology emphasizes testing and quality assurance throughout the development process, ensuring that the final product is reliable and user-friendly. This is crucial for a food delivery application as it involves handling sensitive customer information such as payment details and delivery addresses.
+
+Agile methodology emphasizes testing and quality assurance throughout the development process, ensuring that the final product is reliable and user-friendly. This is crucial for a food delivery application as it involves handling sensitive customer information such as payment details and delivery addresses.
 
  # Details
  All the details can be found in the Qidrah Delivery App Details.PDF
