@@ -6,11 +6,16 @@ The goal of this application is to save users’ efforts by providing a single p
 Qidrah is an app that delivers fresh and delicious ful medames straight to your doorstep. With Qidrah, you can easily find and order from the best ful medames shops in your area, all displayed on a convenient map. Whether you're a busy student or just craving some authentic Egyptian food, Qidrah makes it easy and convenient to enjoy this beloved dish anytime, anywhere.
 
 # Overview:  
-Idea: Delivery Application 
+Idea: Delivery Application
+
 Type of Project: Interactive transaction
+
 Type of software: Generic 
-A user will have an account for the app service.  It will have menus from restaurants that have subscribed to this service.
-A user can browse through different menus and place an order.  The customer has the option to pay the bill using the app itself or pay on delivery. 
+
+The user will have an account for the app service.  It will have menus from restaurants that have subscribed to this service.
+
+The user can browse through different menus and place an order.  The customer has the option to pay the bill using the app itself or pay on delivery. 
+
 The order will be placed at a restaurant nearest to the customer and the subscribed delivery service will be notified.
 For delivering food charges will be applied.  An agent from the delivery service will pick up the order and deliver it to the customer
 
